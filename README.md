@@ -1,2 +1,2 @@
 # Small shell program source code
-# Compiles against the C99 standard
+Compiles against the C99 standard
